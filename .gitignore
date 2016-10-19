@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+*.py[co]
+pip-log.txt
+npm-debug.log
+db.sqlite3
+venv/
+node_modules/
+static/*
+assets/bundles/local/
+SECRET.json
+webpack-stats-local.json
+webpack-stats-prod.json
